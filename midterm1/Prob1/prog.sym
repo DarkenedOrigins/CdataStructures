@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PSquare           3002
+//	CHECK             300B
+//	saver7            301A
+//	saver2            301B
+//	saver4            301C
+//	saver5            301D
+//	saver6            301E
+//	mult              301F
+//	LOOP              3021
+//	MultSaveR5        3026
+

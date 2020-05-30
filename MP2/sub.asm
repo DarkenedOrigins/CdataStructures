@@ -1,0 +1,7 @@
+.ORIG x3000
+	NOT r3,r3
+	ADD r3,r3,#1
+	ADD r0,r3,r4	
+	JSR PUSH
+.END
+

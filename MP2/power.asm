@@ -1,0 +1,18 @@
+.ORIG x3000
+
+	ADD r3,r3,#-1
+	ADD r2,r4,#0
+	ADD r1,r4,#0
+	AND r0,r0,#0
+POWERLOOP
+	ADD r0,r4,r0
+	ADD r2,r2,#-1
+	BRp POWERLOOP
+	ADD r2,r1,#0
+	ADD r4,r0,#0
+	AND R0,r0,#0
+	ADD r3,r3,#-1
+	BRp POWERLOOP
+	HALT
+	  
+.END

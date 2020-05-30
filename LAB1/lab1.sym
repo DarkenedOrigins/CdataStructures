@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	NEXCHAR           3001
+//	SETLOOP           3003
+//	NEGLOOP           300A
+//	PRINT             3010
+//	NUM               3019
+//	FIN               301F
+//	SIXFIVE           3020
+//	FOUREIGHT         3021
+//	TEN               3022
+//	FOUR              3023
+

@@ -1,0 +1,17 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PRINT             3008
+//	SUBSTRING         3010
+//	F_ASK             3013
+//	PRINT_O           301C
+//	PRINT_I           301D
+//	DONE              3026
+//	NEG_NINE          3027
+//	ASCII_ZERO        3028
+//	ASCII_NINE        3029
+//	ASCII_NEG_ASTERISK  302A
+//	ASCII_NEG_ZERO    302B
+//	STRING_START      302C
+

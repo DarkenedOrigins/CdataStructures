@@ -1,0 +1,8 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	DIVLOOP           3003
+//	ZERO              3008
+//	NEG               3009
+
